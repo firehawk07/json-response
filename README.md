@@ -2,4 +2,4 @@
 
 ## How to Use
 
-You can access `repos.json` using this GH Pages link - [repos.json](https://pages.github.com/firehawk07/json-response/json/repos.json)
+You can access `repos.json` using this GH Pages link - [repos.json](https://firehawk07.github.io/json-response/json/repos.json)
